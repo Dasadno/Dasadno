@@ -1,8 +1,12 @@
 # Watermelon
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dasadno&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dasadno&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasadno&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 💫 About Me:
 I love miata 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.chokopieka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27378541) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Як) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yakaleks96@gmail.com) 
@@ -17,7 +21,6 @@ I love miata
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dasadno&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dasadno&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
